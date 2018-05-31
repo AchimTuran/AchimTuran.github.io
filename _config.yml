@@ -1,0 +1,8 @@
+title: Open source projects of Achim Turan
+description: 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
