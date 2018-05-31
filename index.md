@@ -26,6 +26,3 @@ adsp.xconvolver is a convolution engine addon for Kodi’s audio processing syst
 This project is another addon for Kodi's audio processing system. At the moment it already contains a 10 band equalizer to adjust the frequency band levels.
 <br>
 <br>
-
-### [My Google Summer of Code 2015 project](http://achim-turan.de/gsoc-blog/)
-My project [Creating cross-platform room correction for Kodi](http://www.google-melange.com/gsoc/proposal/public/google/gsoc2015/achim_turan/5629499534213120) was chosen out of many proposals, which has the goal to optimize the decoded audio data itself during playback to perfectly fit into the environment of the listener. The progress of this project can be monitored by visiting my [weekly blog posts](http://achim-turan.de/gsoc-blog/weekly-reports/).
